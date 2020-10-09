@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm AlienZHOU</h1>
 <h3 align="center">A frontend developer from China</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=alienzhou" alt="alienzhou" /></a> </p>
-
 - 🔭 I’m currently working on **Kwai Inc.**
 
 - 🌱 I’m currently learning **Distributed System, SOA Governance & Native Application Dev(Android)**
@@ -14,7 +11,7 @@
 
 - 📫 How to reach me **alienzhou16@163.com**
 
-<p align="left">
+<!--<p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://codepen.io/alienzhou" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="alienzhou" height="30"
@@ -25,7 +22,10 @@
 <a href="/https://alienzhou.com/rss.xml" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://alienzhou.com/rss.xml"
         height="30" width="40" /></a>
-</p>
+</p>-->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=alienzhou" alt="alienzhou" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -60,7 +60,7 @@
             src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"
             alt="android" width="40" height="40" /> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alienzhou&layout=compact"
-        alt="alienzhou" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alienzhou&layout=compact"
+        alt="alienzhou" /></p>-->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alienzhou&show_icons=true" alt="alienzhou" /></p>-->
