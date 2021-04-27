@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Kwai Inc.**
 
-- 🌱 I’m currently learning **Distributed System, SOA Governance & Native Application Dev(Android)**
+- 🌱 I’m currently learning **Distributed System**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alienzhou](https://github.com/alienzhou)
 
@@ -27,7 +27,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=alienzhou" alt="alienzhou" /></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!--<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
@@ -59,6 +59,7 @@
     <a href="https://developer.android.com" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"
             alt="android" width="40" height="40" /> </a> </p>
+-->
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alienzhou&layout=compact"
         alt="alienzhou" /></p>-->
