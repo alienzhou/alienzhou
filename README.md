@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Kwai Inc.**
 
-- 🌱 I’m currently learning **Distributed System**
+- 🌱 I’m currently learning **Node.js** and **Distributed System**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alienzhou](https://github.com/alienzhou)
 
