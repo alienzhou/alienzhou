@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm AlienZHOU</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">Full-Stack & AI Developer</h3>
 
 🔭 My current working is abount:
 
-- Frontend Compiling & Building
-- Node.js & Service Monitoring
-- ESModule & Delivery Service
+- **AI Applications & AI Agent Development**
+- **CloudDev & Cloud-Based Development Experience**
+- Full-Stack Development
 - Web-Based WebIDE
 
 <div>
