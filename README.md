@@ -16,10 +16,12 @@
 </div>
 <br>
 
+
+
 👨‍💻 All of my projects are available at [https://github.com/alienzhou](https://github.com/alienzhou).
 
 📝 I regulary write articles on [https://www.alienzhou.com/](https://www.alienzhou.com/).
 
 📫 How to reach me **alienzhou16@163.com**.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alienzhou&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=alienzhou&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
